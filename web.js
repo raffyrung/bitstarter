@@ -5,7 +5,7 @@ var fs = require('fs');
  
 var buffer = "";
  
-fs.readFile('index.html', function (err, data) {
+fs.readFile('index2.html', function (err, data) {
  
 if (err) throw err;
  
